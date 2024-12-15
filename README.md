@@ -10,7 +10,8 @@
 
 <h3>Watch on</h3>
 ```
-localhost:3000```
+localhost:3000
+```
 
 <h2>Install?</h2>
 ```
