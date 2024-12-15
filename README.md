@@ -1,25 +1,22 @@
 # Created by ToprakAltın
 (https://github.com/TPashaxrd)
 
-<h1>Turkish UI Design Weather Watcher</h1>
- 
-# Using 
-    <p>React JSX</p>
-    <p>TailwindCSS</p>
-    <p>Recharts Module</p>
+# Turkish UI Design Weather Watcher
 
-<h3>Watch on</h3>
-```
-localhost:3000
-```
+## Using
+- React JSX
+- TailwindCSS
+- Recharts Module
 
-<h2>Install?</h2>
-```
-npx create-react-app havadurumu
-cd havadurumu
+## Watch on
+http://localhost:3000
 
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init
+## Install?
 
-npm start
-```
+1. Yeni bir React uygulaması oluşturun:
+   ```bash
+   npx create-react-app havadurumu
+   cd havadurumu
+
+   npm start
+   ```
