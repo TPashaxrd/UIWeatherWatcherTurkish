@@ -16,8 +16,9 @@ localhost:3000```
 ```
 npx create-react-app havadurumu
 cd havadurumu
-<!---TailwindCSS--!>
+
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init
-<!---Start--!>
-npm start```
+
+npm start
+```
